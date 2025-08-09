@@ -1,0 +1,11 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "## Project setup You'll need to install Node.js 16 to run this project or edit/remove .npmrc and engines property on package.json to use another version",
+  "main": "vue.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
